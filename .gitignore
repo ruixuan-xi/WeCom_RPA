@@ -1,0 +1,23 @@
+# 敏感文件
+.env
+*.log
+kf_cursor.txt
+kf_cursor.txt.tmp
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 备份压缩包
+*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
